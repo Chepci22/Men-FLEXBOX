@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    font-family: Verdana, serif;
+}
+
+header{
+    height: 60px;
+    line-height: 70px;
+    padding-left: 40px;
+
+    background: #333334;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+section{
+    background: #CCC;
+    display: flex;
+    justify-content: center;
+}
+
+article{
+    display: flex;
+    justify-content: flex-start;
+}
+
+img{
+    border: dashed 1px #555;
+    margin: 10px;
+    padding: 20px;
+    width: 90px;
+    height: 100px;
+}
